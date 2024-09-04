@@ -1,2 +1,2 @@
 # MUSIK LIRIK DEMO
-Kami hadir untuk memudahkan anda dalam pembuatan lirik dari file json
+Halaman ini adalah demo untuk pemutaran lagu dan lirik dari Dark Clue
